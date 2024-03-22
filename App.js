@@ -9,7 +9,7 @@ export default function App() {
   return (
     <ScrollView contentContainerStyle={styles.scrollViewContainer}>
       <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
+        <Text>Componentes: Silas Santos, Iago Macedo e Lucas Santos</Text>
         <Contador />
         <VerificadorNumero />
         <VerificadorIdade />
